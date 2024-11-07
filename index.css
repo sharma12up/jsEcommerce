@@ -1,0 +1,13 @@
+.button {
+    background-color: #007bff; /* Initial background color (Bootstrap primary) */
+    color: white; /* Text color */
+    border: none; /* No border */
+    padding: 10px 20px; /* Padding for the button */
+    font-size: 16px; /* Font size */
+    cursor: pointer; /* Cursor changes to pointer on hover */
+    transition: background-color 0.3s ease; /* Smooth transition effect */
+}
+
+.button:hover {
+    background-color: #343a40; /* Darker color on hover */
+}
